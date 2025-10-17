@@ -1,11 +1,11 @@
 // Coloque aqui o seu Firebase config
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_AUTH_DOMAIN",
-  projectId: "SEU_PROJECT_ID",
-  storageBucket: "SEU_STORAGE_BUCKET",
-  messagingSenderId: "SEU_MESSAGING_SENDER_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyXXXXXX-XXXXXXXXXXXXXX",
+  authDomain: "meu-site-fotos.firebaseapp.com",
+  projectId: "meu-site-fotos",
+  storageBucket: "meu-site-fotos.appspot.com",
+  messagingSenderId: "1234567890",
+  appId: "1:1234567890:web:abcdef123456"
 };
 
 // Inicializa Firebase
